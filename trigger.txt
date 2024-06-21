@@ -1,1 +1,2 @@
-ghcr.io/servercontainers/samba registry.cn-hangzhou.aliyuncs.com/aliyun252/samba
+pwntr/samba-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/pwntr-samba-alpine
+
