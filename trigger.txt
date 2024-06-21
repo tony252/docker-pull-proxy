@@ -1,2 +1,2 @@
 airsupport/samba4.17.5:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/airsupport-samba4.17.5:latest
-
+dockurr/samba  registry.cn-hangzhou.aliyuncs.com/aliyun252/dockurr-samba 
