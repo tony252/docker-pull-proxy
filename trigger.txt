@@ -1,2 +1,2 @@
-pwntr/samba-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/pwntr-samba-alpine
+airsupport/samba4.17.5:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/airsupport-samba4.17.5:latest
 
