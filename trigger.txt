@@ -1,2 +1,2 @@
 alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
-dockurr/samba:latest registry.cn-hangzhou.aliyuncs.com/dockurr/samba:latest
+crazymax/samba  registry.cn-hangzhou.aliyuncs.com/yqhp/samba
