@@ -1,1 +1,2 @@
-whyour/qinglong:latest	 registry.cn-hangzhou.aliyuncs.com/aliyun252/whyour_qinglong
+portainer/portainer-ce  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-ce
+portainer/agent  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-agent
