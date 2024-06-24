@@ -1,1 +1,1 @@
-whyour/qinglong:latest	 registry.cn-hangzhou.aliyuncs.com/dockurr/whyour_qinglong
+whyour/qinglong:latest	 registry.cn-hangzhou.aliyuncs.com/aliyun252/whyour_qinglong
