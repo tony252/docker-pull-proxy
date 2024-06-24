@@ -4,3 +4,4 @@ dperson/samba   registry.cn-hangzhou.aliyuncs.com/aliyun252/samba-dperson
 johngong/baidunetdisk  registry.cn-hangzhou.aliyuncs.com/aliyun252/baidunetdisk-johngong
 whyour/qinglong  registry.cn-hangzhou.aliyuncs.com/aliyun252/qinglong-whyour
 xhofe/alist:latest  registry.cn-hangzhou.aliyuncs.com/aliyun252/alist-xhofe
+nginx:stable-alpine-slim   registry.cn-hangzhou.aliyuncs.com/aliyun252/nginx:stable-alpine-slim
