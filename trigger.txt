@@ -1,2 +1,6 @@
 portainer/portainer-ce  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-ce
 portainer/agent  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-agent
+dperson/samba   registry.cn-hangzhou.aliyuncs.com/aliyun252/samba-dperson
+johngong/baidunetdisk  registry.cn-hangzhou.aliyuncs.com/aliyun252/baidunetdisk-johngong
+whyour/qinglong  registry.cn-hangzhou.aliyuncs.com/aliyun252/qinglong-whyour
+xhofe/alist:latest  registry.cn-hangzhou.aliyuncs.com/aliyun252/alist-xhofe
