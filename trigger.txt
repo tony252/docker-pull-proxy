@@ -1,1 +1,1 @@
-neytor/samba registry.cn-hangzhou.aliyuncs.com/aliyun252/neytor-samba 
+whyour/qinglong:latest	 registry.cn-hangzhou.aliyuncs.com/dockurr/whyour_qinglong
