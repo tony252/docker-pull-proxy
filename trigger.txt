@@ -1,1 +1,1 @@
-xhofe/alist  registry.cn-hangzhou.aliyuncs.com/aliyun252/alist-xhofe
+hhyo/archery:v1.10.0  registry.cn-hangzhou.aliyuncs.com/aliyun252/hhyo_archery:v1.10.0
