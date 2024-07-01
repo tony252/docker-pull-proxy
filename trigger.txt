@@ -1,1 +1,1 @@
-dockurr/samba   registry.cn-hangzhou.aliyuncs.com/aliyun252/samba_dockurr
+uozi/nginx-ui   registry.cn-hangzhou.aliyuncs.com/aliyun252/nginx-ui_uozi
