@@ -1,1 +1,1 @@
-uozi/nginx-ui   registry.cn-hangzhou.aliyuncs.com/aliyun252/nginx-ui_uozi
+frooodle/s-pdf   registry.cn-hangzhou.aliyuncs.com/aliyun252/s-pdf
