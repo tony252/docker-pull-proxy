@@ -1,2 +1,1 @@
-portainer/portainer-ce:sts  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-ce
-portainer/agent:sts  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-agent
+xhofe/alist  registry.cn-hangzhou.aliyuncs.com/aliyun252/alist-xhofe
