@@ -1,3 +1,1 @@
-
-xhofe/alist:latest-ffmpeg  registry.cn-hangzhou.aliyuncs.com/aliyun252/alist-xhofe:latest-latest
-
+xhofe/alist:latest-ffmpeg  registry.cn-hangzhou.aliyuncs.com/aliyun252/xhofe/alist:latest-ffmpeg
