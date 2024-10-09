@@ -1,1 +1,1 @@
-xhofe/alist:latest-ffmpeg registry.cn-hangzhou.aliyuncs.com/aliyun252/xhofe-alist:latest-ffmpeg
+jellyfin/jellyfin  registry.cn-hangzhou.aliyuncs.com/aliyun252/jellyfin
