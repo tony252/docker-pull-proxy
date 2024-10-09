@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin registry.cn-hangzhou.aliyuncs.com/aliyun252/jellyfin_nyanmisaka
+linuxserver/jellyfin  registry.cn-hangzhou.aliyuncs.com/aliyun252/jellyfin_linuxserver
