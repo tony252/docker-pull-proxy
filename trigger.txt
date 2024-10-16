@@ -1,1 +1,1 @@
-linuxserver/jellyfin  registry.cn-hangzhou.aliyuncs.com/aliyun252/jellyfin_linuxserver
+gradle:8.6.0-jdk21-alpine  registry.cn-hangzhou.aliyuncs.com/aliyun252/gradle-jdk21-alpine
