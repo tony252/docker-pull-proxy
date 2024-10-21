@@ -1,1 +1,1 @@
-gradle:8.6.0-jdk21-alpine  registry.cn-hangzhou.aliyuncs.com/aliyun252/gradle-jdk21-alpine
+soulteary/certs-maker  registry.cn-hangzhou.aliyuncs.com/aliyun252/certs-maker-soulteary
