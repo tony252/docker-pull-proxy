@@ -1,1 +1,1 @@
-soulteary/certs-maker  registry.cn-hangzhou.aliyuncs.com/aliyun252/certs-maker-soulteary
+jonnyan404/verysync  registry.cn-hangzhou.aliyuncs.com/aliyun252/verysync-jonnyan404
