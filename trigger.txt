@@ -1,1 +1,1 @@
-monokal/tinyproxy registry.cn-hangzhou.aliyuncs.com/aliyun252/tinyproxy
+ubuntu/squid  registry.cn-hangzhou.aliyuncs.com/aliyun252/squid
