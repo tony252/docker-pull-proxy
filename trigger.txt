@@ -1,1 +1,1 @@
-goproxy  registry.cn-hangzhou.aliyuncs.com/aliyun252/goproxy 
+goproxy/goproxy  registry.cn-hangzhou.aliyuncs.com/aliyun252/goproxy 
