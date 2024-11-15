@@ -1,1 +1,1 @@
-ubuntu/squid  registry.cn-hangzhou.aliyuncs.com/aliyun252/squid
+homeassistant/home-assistant  registry.cn-hangzhou.aliyuncs.com/aliyun252/home-assistant
