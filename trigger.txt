@@ -1,1 +1,1 @@
-linuxserver/msedge registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge
+mcr.microsoft.com/edge-dev registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge
