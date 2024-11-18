@@ -1,1 +1,2 @@
-kasmweb/edge:1.15.0-rolling registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge:latest
+kasmweb/edge:1.15.0-rolling registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge-kasmweb:latest
+ich777/microsoft-edge registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge
