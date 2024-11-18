@@ -1,1 +1,2 @@
 homeassistant/home-assistant  registry.cn-hangzhou.aliyuncs.com/aliyun252/home-assistant
+jellyfin/jellyfin  registry.cn-hangzhou.aliyuncs.com/aliyun252/jellyfin
