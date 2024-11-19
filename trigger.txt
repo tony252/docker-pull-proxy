@@ -1,1 +1,1 @@
-kasmweb/edge:1.16.1 registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge-kasmweb:latest
+m1k1o/neko:microsoft-edge registry.cn-hangzhou.aliyuncs.com/aliyun252/neko:microsoft-edge
