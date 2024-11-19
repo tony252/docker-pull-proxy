@@ -1,2 +1,1 @@
-m1k1o/neko:ungoogled-chromium registry.cn-hangzhou.aliyuncs.com/aliyun252/neko:ungoogledchromium
-
+m1k1o/neko:ungoogled-chromium   registry.cn-hangzhou.aliyuncs.com/aliyun252/neko:ungoogled-chromium
