@@ -1,1 +1,1 @@
-m1k1o/neko:microsoft-edge registry.cn-hangzhou.aliyuncs.com/aliyun252/neko:microsoft-edge
+mcr.microsoft.com-edge:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/microsoft-edge
