@@ -1,1 +1,3 @@
-mcr.microsoft.com-edge:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/microsoft-edge
+zhijianzheluoji/microsoft-edge:129.0.2792.89-1 registry.cn-hangzhou.aliyuncs.com/aliyun252/microsoft-edge:zhijianzheluoji
+tianon/microsoft-edge:beta registry.cn-hangzhou.aliyuncs.com/aliyun252/microsoft-edge:tianon
+matinraayai/microsoft-edge registry.cn-hangzhou.aliyuncs.com/aliyun252/microsoft-edge:matinraayai
