@@ -1,1 +1,1 @@
-aoyutang/clash-and-dashboard  registry.cn-hangzhou.aliyuncs.com/aliyun252/dashboard
+laoyutang/clash-and-dashboard  registry.cn-hangzhou.aliyuncs.com/aliyun252/dashboard
