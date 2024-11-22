@@ -1,1 +1,1 @@
-laoyutang/clash-and-dashboard:latest  registry.cn-hangzhou.aliyuncs.com/dashboard:laoyutang
+tinymediamanager/tinymediamanager  registry.cn-hangzhou.aliyuncs.com/aliyun252/tinymediamanager
