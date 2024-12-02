@@ -1,1 +1,1 @@
-billchurch/webssh2:bigip-server registry.cn-hangzhou.aliyuncs.com/aliyun252/webssh2:billchurch
+efarrer/google-chrome registry.cn-hangzhou.aliyuncs.com/aliyun252/chrome:efarrer
