@@ -1,2 +1,1 @@
-kasmweb/edge:1.16.1 registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge:kasmweb
-linuxserver/msedge registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge:linuxserver
+chenhong3333/msedge registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge:chenhong3333
