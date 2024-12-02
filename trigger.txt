@@ -1,1 +1,1 @@
-efarrer/google-chrome registry.cn-hangzhou.aliyuncs.com/aliyun252/chrome:efarrer
+siomiz/chrome:master registry.cn-hangzhou.aliyuncs.com/aliyun252/chrome:siomiz
