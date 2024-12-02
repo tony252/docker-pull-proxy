@@ -1,1 +1,3 @@
-jess/chrome  registry.cn-hangzhou.aliyuncs.com/aliyun252/chrome:jess
+billchurch/webssh2  registry.cn-hangzhou.aliyuncs.com/aliyun252/webssh2:billchurch
+
+
