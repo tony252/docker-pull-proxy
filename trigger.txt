@@ -1,1 +1,1 @@
-siomiz/chrome:master registry.cn-hangzhou.aliyuncs.com/aliyun252/chrome:siomiz
+kasmweb/edge:1.16.1 registry.cn-hangzhou.aliyuncs.com/aliyun252/edge:kasmweb
