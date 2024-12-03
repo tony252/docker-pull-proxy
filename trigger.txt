@@ -1,1 +1,1 @@
-chenhong3333/msedge registry.cn-hangzhou.aliyuncs.com/aliyun252/msedge:chenhong3333
+jlesage/firefox registry.cn-hangzhou.aliyuncs.com/aliyun252/firefox:jlesage
