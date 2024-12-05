@@ -1,1 +1,1 @@
-cloudnas/clouddrive2 registry.cn-hangzhou.aliyuncs.com/aliyun252/clouddrive2:cloudnas
+efrecon/webdav-client registry.cn-hangzhou.aliyuncs.com/aliyun252/webdav-client:efrecon
