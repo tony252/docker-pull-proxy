@@ -1,1 +1,1 @@
-efrecon/webdav-client registry.cn-hangzhou.aliyuncs.com/aliyun252/webdav-client:efrecon
+alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/alpine
