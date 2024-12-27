@@ -1,1 +1,1 @@
-johngong/calibre-web  registry.cn-hangzhou.aliyuncs.com/aliyun252/calibre-web:johngong
+gitea/gitea  registry.cn-hangzhou.aliyuncs.com/aliyun252/gitea
