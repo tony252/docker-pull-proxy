@@ -1,1 +1,1 @@
-gitea/gitea  registry.cn-hangzhou.aliyuncs.com/aliyun252/gitea
+whyour/qinglong registry.cn-hangzhou.aliyuncs.com/aliyun252/qinglong-whyour
