@@ -1,3 +1,4 @@
+metersphere/metersphere:ai-enhanced registry.cn-hangzhou.aliyuncs.com/aliyun252/metersphere-ai-enhanced
 metersphere/metersphere-ce-allinone:latest  registry.cn-hangzhou.aliyuncs.com/aliyun252/metersphere-ce-allinone
 whyour/qinglong  registry.cn-hangzhou.aliyuncs.com/aliyun252/qinglong-whyour
 portainer/portainer-ce:2.27.9-alpine  registry.cn-hangzhou.aliyuncs.com/aliyun252/portainer-ce
