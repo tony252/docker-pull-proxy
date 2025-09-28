@@ -1,2 +1,1 @@
-whyour/qinglong:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/qinglong-whyour:latest
-mzz2017/v2raya:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
+mzz2017/v2raya:v2.2.7  registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
