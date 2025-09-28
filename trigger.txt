@@ -1,1 +1,1 @@
-mzz2017/v2raya:v2.2.7  registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
+mzz2017/v2raya:v2.2.6.7  registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
