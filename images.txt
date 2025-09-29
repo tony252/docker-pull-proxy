@@ -1,4 +1,4 @@
-nginx:alpine registry.cn-beijing.aliyuncs.com/ijx-public/nginx:alpine
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 registry.cn-beijing.aliyuncs.com/ijx-public/kube-state-metrics:v2.0.0
-k8s.gcr.io/pause:3.2 registry.cn-beijing.aliyuncs.com/ijx-public/pause:3.2
-crazymax/samba  registry.cn-hangzhou.aliyuncs.com/yqhp/samba
+nginx:alpine swr.cn-south-1.myhuaweicloud.com/ym/nginx:alpine
+k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0 swr.cn-south-1.myhuaweicloud.com/ym/kube-state-metrics:v2.0.0
+k8s.gcr.io/pause:3.2 swr.cn-south-1.myhuaweicloud.com/ym/pause:3.2
+crazymax/samba  swr.cn-south-1.myhuaweicloud.com/ym/samba
