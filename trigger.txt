@@ -1,3 +1,1 @@
 mzz2017/v2raya:v2.2.7.4 registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:v2.2.7.4
-
-
