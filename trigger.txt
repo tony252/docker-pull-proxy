@@ -1,1 +1,3 @@
-mzz2017/v2raya:v2.2.7.4 registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:v2.2.7.4
+python:3.11-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/python:3.11-alpine
+alpine:3.19 registry.cn-hangzhou.aliyuncs.com/aliyun252/alpine:3.19
+
