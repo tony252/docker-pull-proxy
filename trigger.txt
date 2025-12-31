@@ -1,2 +1,2 @@
-python:3.11-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/python:3.11-alpine
+python:3.12-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/python:3.12-alpine
 alpine:3.23 registry.cn-hangzhou.aliyuncs.com/aliyun252/alpine:3.23
