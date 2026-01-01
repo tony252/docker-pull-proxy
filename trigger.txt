@@ -1,1 +1,1 @@
-openjdk:11.0.11-jre-slim registry.cn-hangzhou.aliyuncs.com/aliyun252/openjdk:11.0.11-jre-slim
+eclipse-temurin:8-jre-alpine-3.23 registry.cn-hangzhou.aliyuncs.com/aliyun252/eclipse-temurin:8-jre-alpine-3.23
