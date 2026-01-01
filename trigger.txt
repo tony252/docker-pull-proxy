@@ -1,1 +1,3 @@
-openjdk:11.0.11-jre-buster registry.cn-hangzhou.aliyuncs.com/aliyun252/openjdk:11.0.11-jre-buster
+openjdk:11.0.11-jre-slim registry.cn-hangzhou.aliyuncs.com/aliyun252/openjdk:11.0.11-jre-slim
+
+
