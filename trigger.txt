@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk8:alpine-jre registry.cn-hangzhou.aliyuncs.com/aliyun252/openjdk8:alpine-jre
+openjdk:11.0.11-jre-buster registry.cn-hangzhou.aliyuncs.com/aliyun252/openjdk:11.0.11-jre-buster
