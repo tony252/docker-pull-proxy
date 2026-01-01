@@ -1,2 +1,1 @@
-python:3.12-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/python:3.12-alpine
-alpine:3.23 registry.cn-hangzhou.aliyuncs.com/aliyun252/alpine:3.23
+ibm-semeru-runtimes:open-11-jre-focal registry.cn-hangzhou.aliyuncs.com/aliyun252/ibm-semeru-runtimes:open-11-jre-focal
