@@ -1,2 +1,2 @@
-eclipse-temurin:8-jre-alpine-3.23 registry.cn-hangzhou.aliyuncs.com/aliyun252/eclipse-temurin:8-jre-alpine-3.23
 mzz2017/v2raya registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:mzz2017
+teddysun/v2raya registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:teddysun
