@@ -1,2 +1,1 @@
-mzz2017/v2raya:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:mzz2017
 teddysun/v2raya:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:26.1.23
