@@ -1,1 +1,1 @@
-teddysun/v2ray:5.44.1 registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:5.44.1
+v2raya/v2raya:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
