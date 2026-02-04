@@ -1,1 +1,1 @@
-v2raya/v2raya:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/v2raya:latest
+ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/aliyun252/ubuntu:22.04
