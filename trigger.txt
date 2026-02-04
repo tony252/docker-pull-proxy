@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/aliyun252/ubuntu:22.04
+ghcr.io/armbian/build:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/armbian:latest
