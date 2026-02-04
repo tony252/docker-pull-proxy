@@ -1,1 +1,1 @@
-ghcr.io/armbian/build:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/armbian:latest
+armbian/build:latest registry.cn-hangzhou.aliyuncs.com/aliyun252/armbian:latest
