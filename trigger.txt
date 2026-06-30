@@ -1,1 +1,1 @@
-node:26-slim registry.cn-hangzhou.aliyuncs.com/aliyun252/node:26-slim
+node:24.18.0-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/node:24.18.0-alpine
