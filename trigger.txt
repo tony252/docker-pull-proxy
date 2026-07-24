@@ -1,2 +1,2 @@
-node:26.3.0-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/node:26.3.0-alpine
-node:22.23.1-alpine registry.cn-hangzhou.aliyuncs.com/aliyun252/node:22.23.1-alpine
+henrygd/beszel registry.cn-hangzhou.aliyuncs.com/aliyun252/beszel
+henrygd/beszel-agent registry.cn-hangzhou.aliyuncs.com/aliyun252/beszel-agent
